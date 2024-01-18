@@ -1,6 +1,9 @@
 import pygame
 import math
 
+WHITE= (255, 255, 255)
+
+
 class Planet:
     AU = 149.6e6 * 1000
     G = 6.67428e-11
